@@ -1,0 +1,6 @@
+Occupancy found to be 0.61658
+Traceback (most recent call last):
+  File "/home/labwork/autocontrol/python_scripts/post_analysis.py", line 283, in <module>
+    popt_array=np.concatenate([popt_array2, popt_array])
+NameError: name 'popt_array2' is not defined. Did you mean: 'popt_array'?
+>>> 

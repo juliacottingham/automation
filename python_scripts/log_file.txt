@@ -1,0 +1,563 @@
+/home/labwork/autocontrol/python_scripts/post_analysis.py:292: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`). Consider using `matplotlib.pyplot.close()`.
+  fig, ax = plt.subplots()
+arduino_1_run_105.npy
+105
+1
+Occupancy found to be 0.61658
+arduino_5_run_38.npy
+38
+5
+Occupancy found to be 0.36764
+arduino_1_run_93.npy
+93
+1
+Occupancy found to be 0.616
+arduino_1_run_131.npy
+131
+1
+Occupancy found to be 0.6399
+arduino_8_run_72.npy
+72
+8
+Occupancy found to be 0.59088
+arduino_10_run_104.npy
+104
+10
+Occupancy found to be 0.609
+arduino_1_run_63.npy
+63
+1
+Occupancy found to be 0.41582
+arduino_14_run_28.npy
+28
+14
+Occupancy found to be 0.0235
+arduino_11_run_78.npy
+78
+11
+Occupancy found to be 0.58318
+arduino_7_run_14.npy
+14
+7
+Occupancy found to be 0.40014
+arduino_1_run_117.npy
+117
+1
+Occupancy found to be 0.61376
+arduino_1_run_37.npy
+37
+1
+Occupancy found to be 0.36398
+arduino_5_run_10.npy
+10
+5
+Occupancy found to be 0.37276
+arduino_1_run_27.npy
+27
+1
+Occupancy found to be 0.3613
+arduino_1_run_91.npy
+91
+1
+Occupancy found to be 0.61226
+arduino_1_run_11.npy
+11
+1
+Occupancy found to be 0.37492
+arduino_10_run_76.npy
+76
+10
+Occupancy found to be 0.62132
+arduino_1_run_67.npy
+67
+1
+Occupancy found to be 0.45386
+arduino_1_run_1.npy
+1
+1
+Occupancy found to be 0.3478
+arduino_1_run_25.npy
+25
+1
+Occupancy found to be 0.36166
+arduino_2_run_116.npy
+116
+2
+Occupancy found to be 0.61534
+arduino_5_run_122.npy
+122
+5
+Occupancy found to be 0.62352
+arduino_14_run_112.npy
+112
+14
+Occupancy found to be 0.04744
+arduino_4_run_8.npy
+8
+4
+Occupancy found to be 0.36734
+arduino_14_run_56.npy
+56
+14
+Occupancy found to be 0.02358
+arduino_9_run_130.npy
+130
+9
+Occupancy found to be 0.67578
+arduino_13_run_138.npy
+138
+13
+Occupancy found to be 0.05864
+arduino_5_run_94.npy
+94
+5
+Occupancy found to be 0.62038
+arduino_1_run_123.npy
+123
+1
+Occupancy found to be 0.62474
+arduino_12_run_80.npy
+80
+12
+Occupancy found to be 0.44252
+arduino_1_run_21.npy
+21
+1
+Occupancy found to be 0.3667
+arduino_1_run_61.npy
+61
+1
+Occupancy found to be 0.39726
+arduino_7_run_98.npy
+98
+7
+Occupancy found to be 0.65084
+arduino_1_run_109.npy
+109
+1
+Occupancy found to be 0.61188
+arduino_1_run_5.npy
+5
+1
+Occupancy found to be 0.37248
+arduino_9_run_18.npy
+18
+9
+Occupancy found to be 0.389
+arduino_10_run_132.npy
+132
+10
+Occupancy found to be 0.63106
+arduino_1_run_95.npy
+95
+1
+Occupancy found to be 0.61814
+arduino_9_run_46.npy
+46
+9
+Occupancy found to be 0.39958
+arduino_1_run_85.npy
+85
+1
+Occupancy found to be 0.61726
+arduino_1_run_45.npy
+45
+1
+Occupancy found to be 0.36802
+arduino_9_run_102.npy
+102
+9
+Occupancy found to be 0.65252
+arduino_1_run_127.npy
+127
+1
+Occupancy found to be 0.6246
+arduino_10_run_48.npy
+48
+10
+Occupancy found to be 0.36894
+arduino_2_run_4.npy
+4
+2
+Occupancy found to be 0.37658
+arduino_1_run_65.npy
+65
+1
+Occupancy found to be 0.4329
+arduino_3_run_90.npy
+90
+3
+Occupancy found to be 0.60336
+arduino_2_run_32.npy
+32
+2
+Occupancy found to be 0.36188
+arduino_3_run_6.npy
+6
+3
+Occupancy found to be 0.36634
+arduino_1_run_53.npy
+53
+1
+Occupancy found to be 0.3756
+arduino_1_run_86.npy
+86
+1
+Occupancy found to be 0.6191
+arduino_1_run_33.npy
+33
+1
+Occupancy found to be 0.3657
+arduino_1_run_114.npy
+114
+1
+Occupancy found to be 0.61448
+arduino_6_run_12.npy
+12
+6
+Occupancy found to be 0.39124
+arduino_1_run_49.npy
+49
+1
+Occupancy found to be 0.36904
+arduino_12_run_52.npy
+52
+12
+Occupancy found to be 0.26282
+arduino_1_run_113.npy
+113
+1
+Occupancy found to be 0.61718
+arduino_1_run_139.npy
+139
+1
+Occupancy found to be 0.62934
+arduino_1_run_87.npy
+87
+1
+Occupancy found to be 0.61678
+arduino_13_run_26.npy
+26
+13
+Occupancy found to be 0.02472
+arduino_8_run_44.npy
+44
+8
+Occupancy found to be 0.40494
+arduino_7_run_126.npy
+126
+7
+Occupancy found to be 0.65686
+arduino_6_run_40.npy
+40
+6
+Occupancy found to be 0.3818
+arduino_1_run_119.npy
+119
+1
+Occupancy found to be 0.61622
+arduino_8_run_128.npy
+128
+8
+Occupancy found to be 0.66912
+arduino_1_run_77.npy
+77
+1
+Occupancy found to be 0.6132
+arduino_1_run_19.npy
+19
+1
+Occupancy found to be 0.35854
+arduino_12_run_24.npy
+24
+12
+Occupancy found to be 0.25374
+arduino_1_run_115.npy
+115
+1
+Occupancy found to be 0.6156
+arduino_3_run_118.npy
+118
+3
+Occupancy found to be 0.609
+arduino_1_run_79.npy
+79
+1
+Occupancy found to be 0.57548
+arduino_11_run_134.npy
+134
+11
+Occupancy found to be 0.59626
+arduino_1_run_73.npy
+73
+1
+Occupancy found to be 0.5993
+arduino_1_run_135.npy
+135
+1
+Occupancy found to be 0.6426
+arduino_11_run_22.npy
+22
+11
+Occupancy found to be 0.3249
+arduino_1_run_103.npy
+103
+1
+Occupancy found to be 0.62638
+arduino_1_run_111.npy
+111
+1
+Occupancy found to be 0.61422
+arduino_1_run_69.npy
+69
+1
+Occupancy found to be 0.4844
+arduino_1_run_81.npy
+81
+1
+Occupancy found to be 0.59016
+arduino_1_run_15.npy
+15
+1
+Occupancy found to be 0.3677
+arduino_1_run_51.npy
+51
+1
+Occupancy found to be 0.3732
+arduino_6_run_68.npy
+68
+6
+Occupancy found to be 0.48072
+arduino_4_run_36.npy
+36
+4
+Occupancy found to be 0.35714
+arduino_1_run_43.npy
+43
+1
+Occupancy found to be 0.3626
+arduino_1_run_97.npy
+97
+1
+Occupancy found to be 0.61848
+arduino_4_run_92.npy
+92
+4
+Occupancy found to be 0.61552
+arduino_7_run_70.npy
+70
+7
+Occupancy found to be 0.55784
+arduino_1_run_2.npy
+2
+1
+Occupancy found to be 0.34356
+arduino_1_run_133.npy
+133
+1
+Occupancy found to be 0.64506
+arduino_2_run_60.npy
+60
+2
+Occupancy found to be 0.40144
+arduino_11_run_106.npy
+106
+11
+Occupancy found to be 0.55996
+arduino_12_run_136.npy
+136
+12
+Occupancy found to be 0.51254
+arduino_4_run_120.npy
+120
+4
+Occupancy found to be 0.60864
+arduino_1_run_58.npy
+58
+1
+Occupancy found to be 0.39206
+arduino_10_run_20.npy
+20
+10
+Occupancy found to be 0.35946
+arduino_1_run_99.npy
+99
+1
+Occupancy found to be 0.61752
+arduino_3_run_34.npy
+34
+3
+Occupancy found to be 0.36264
+arduino_6_run_96.npy
+96
+6
+Occupancy found to be 0.6421
+arduino_1_run_41.npy
+41
+1
+Occupancy found to be 0.3661
+arduino_1_run_23.npy
+23
+1
+Occupancy found to be 0.36114
+arduino_14_run_140.npy
+140
+14
+Occupancy found to be 0.04956
+arduino_13_run_110.npy
+110
+13
+Occupancy found to be 0.05576
+arduino_1_run_121.npy
+121
+1
+Occupancy found to be 0.6163
+arduino_1_run_107.npy
+107
+1
+Occupancy found to be 0.61672
+arduino_1_run_57.npy
+57
+1
+Occupancy found to be 0.38654
+arduino_6_run_124.npy
+124
+6
+Occupancy found to be 0.64272
+arduino_1_run_55.npy
+55
+1
+Occupancy found to be 0.37918
+arduino_1_run_17.npy
+17
+1
+Occupancy found to be 0.36504
+arduino_1_run_71.npy
+71
+1
+Occupancy found to be 0.5256
+arduino_1_run_7.npy
+7
+1
+Occupancy found to be 0.3669
+arduino_5_run_66.npy
+66
+5
+Occupancy found to be 0.4484
+arduino_1_run_9.npy
+9
+1
+Occupancy found to be 0.36982
+arduino_1_run_59.npy
+59
+1
+Occupancy found to be 0.39762
+arduino_1_run_125.npy
+125
+1
+Occupancy found to be 0.62638
+arduino_7_run_42.npy
+42
+7
+Occupancy found to be 0.3936
+arduino_8_run_100.npy
+100
+8
+Occupancy found to be 0.66086
+arduino_13_run_82.npy
+82
+13
+Occupancy found to be 0.05224
+arduino_14_run_84.npy
+84
+14
+Occupancy found to be 0.0484
+arduino_12_run_108.npy
+108
+12
+Occupancy found to be 0.47924
+arduino_4_run_64.npy
+64
+4
+Occupancy found to be 0.42004
+arduino_13_run_54.npy
+54
+13
+Occupancy found to be 0.02778
+arduino_1_run_35.npy
+35
+1
+Occupancy found to be 0.36248
+arduino_9_run_74.npy
+74
+9
+Occupancy found to be 0.64498
+arduino_2_run_88.npy
+88
+2
+Occupancy found to be 0.60944
+arduino_8_run_16.npy
+16
+8
+Occupancy found to be 0.3987
+arduino_1_run_83.npy
+83
+1
+Occupancy found to be 0.6071
+arduino_1_run_137.npy
+137
+1
+Occupancy found to be 0.63684
+arduino_1_run_31.npy
+31
+1
+Occupancy found to be 0.3679
+arduino_1_run_101.npy
+101
+1
+Occupancy found to be 0.61788
+arduino_1_run_47.npy
+47
+1
+Occupancy found to be 0.3718
+arduino_1_run_13.npy
+13
+1
+Occupancy found to be 0.37172
+arduino_1_run_29.npy
+29
+1
+Occupancy found to be 0.36386
+arduino_1_run_3.npy
+3
+1
+Occupancy found to be 0.36476
+arduino_11_run_50.npy
+50
+11
+Occupancy found to be 0.33438
+arduino_1_run_39.npy
+39
+1
+Occupancy found to be 0.36182
+arduino_1_run_129.npy
+129
+1
+Occupancy found to be 0.62432
+arduino_3_run_62.npy
+62
+3
+Occupancy found to be 0.40218
+arduino_1_run_30.npy
+30
+1
+Occupancy found to be 0.3615
+arduino_1_run_75.npy
+75
+1
+Occupancy found to be 0.59004
+arduino_1_run_89.npy
+89
+1
+Occupancy found to be 0.6108
+>>> 
