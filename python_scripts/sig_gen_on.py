@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 #-*- coding:utf-8 –*-
 #-----------------------------------------------------------------------------
+#NOTE: I adapted this from a script on the Siglent web page. 
+
 # The short script is a example that open a socket, sends a query,
 # print the return message and closes the socket.
 #
