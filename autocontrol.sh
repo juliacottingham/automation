@@ -45,11 +45,11 @@ processed_data_folder="processed_data"
 signal_folder="signal" #under processed_data_folder, contains pictures of the plotted signal from the oscilloscope
 charge_dist_folder="charge_distribution" #under processed_data_folder, contains pictures of the charge distribution and the fit 
 
-script_name="script2.py"         #controls oscilloscope
-analysis_name="new_analysis5.py" #runs analysis after each data collection
-final_name="new_final10.py"       #name of script that runs analysis after all data collection is completed 
-sig_gen_name="sig_gen.py"        #name of script that turns on the signal generator, sets the load to 50 ohms, and sets the voltage amplitude of the pulse and the duration of the pulse
-off_script="sig_gen2.py"         #name of script that turns of signal generator
+script_name="oscilloscope.py"         #controls oscilloscope
+analysis_name="analysis.py" #runs analysis after each data collection
+final_name="final.py"       #name of script that runs analysis after all data collection is completed 
+sig_gen_name="sig_gen_on.py"        #name of script that turns on the signal generator, sets the load to 50 ohms, and sets the voltage amplitude of the pulse and the duration of the pulse
+off_script="sig_gen_off.py"         #name of script that turns of signal generator
 
 screen_name="arduino_screen"     #set in the Makefile under sketchbook (name of 'screen' instance where the program communicates with the Arduino)
 log_name="arduino_log"           #can be changed in Makefile under sketchbook, log of screen input and output
