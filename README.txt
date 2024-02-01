@@ -1,3 +1,8 @@
+Here I have uploaded some of the scripts that I wrote to automate lab equipment for purposes of demonstrating my previous coding experience and ability.
+
+I omitted the Arduino .ino code, since it was written by someone else. I used the Arduino-mk package to compile it, which explains some of the "make" statements you will see in autocontrol.sh, and it was inside a folder called sketchbook, which I have omitted as well to avoid claiming credit for someone elses' work. 
+I have also omitted the scripts used to control the signal generator, because they are partially adapted from some example scripts on the Siglent website. 
+
 ACKNOWLEDGEMENTS: I would like to give Kristi Engel credit for her .ino code file which this program runs to control the Arduino. Also the code to control the signal generator is adapted from an example program on the Siglent website.
 
 WHAT THIS CODE DOES: 
